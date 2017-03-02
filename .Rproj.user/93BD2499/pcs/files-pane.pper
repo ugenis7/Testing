@@ -1,0 +1,9 @@
+{
+    "path" : "~/ownCloud/R/tweets",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}
